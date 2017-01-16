@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm an independent game developer, and tea enthusiast! 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+With a passion for the games industry, and a love of AI, I spend my days working on small personal game projects, freelance work, or just whatever piques my interest!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[ariimoose@gmail.com](mailto:ariimoose@gmail.com)
