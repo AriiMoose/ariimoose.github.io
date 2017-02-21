@@ -3,6 +3,12 @@ layout: page
 title: Portfolio
 permalink: /portfolio
 ---
+### RPG Content Design
+The following is an assortment of content design I've done for tabletop RPGs. There's a large backlog of content that I'm slowly adding to this portfolio. All of it can be found [over on Google Drive](https://drive.google.com/drive/folders/0Bwg2FcBAt_-7bXNxa1lxc2ZRMXc?usp=sharing)
+
+### What Makes A Monster
+A last minute entry to Itch.io's Bite-Sized Horror game jam in 2016. What Makes A Monster is a short attempt at horror using Twine, and can be found [here](https://ariimoose.itch.io/what-makes-a-monster). This game, along with other entries in the game jam were covered by [Jupi over at her YouTube channel](https://www.youtube.com/watch?v=rerOewfTKnk&feature=youtu.be)
+
 ### Grapple Guys
 
 A simple 2D brawler with a gimmick. In Grapple Guys players attempt to stomp on one another's heads with the use of grappling hooks! This is being developed as part of my Two Week Challenge, where I try to develop a game in 14 days. You can see my progress on my [blog](https://ariimoose.github.io/), and over on [YouTube](https://www.youtube.com/playlist?list=PL-LX3iknXZp5djP7SACbGHA1dGJvhFg-x). Still not finished, but I'm halfway there!
