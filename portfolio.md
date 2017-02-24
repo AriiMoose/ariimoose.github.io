@@ -5,14 +5,17 @@ permalink: /portfolio
 ---
 ### RPG Content Design
 The following is an assortment of content design I've done for tabletop RPGs. There's a large backlog of content that I'm slowly adding to this portfolio. All of it can be found [over on Google Drive](https://drive.google.com/drive/folders/0Bwg2FcBAt_-7bXNxa1lxc2ZRMXc?usp=sharing)
+___
 
 ### Style On 'Em
 Style On 'Em is a turn-based fighting game created for the [#makeitSUPERHOT game jam](http://www.moddb.com/games/style-on-em). Style On 'Em is a game that rewards flashy combos. Players are awarded points depending on how stylish their combos are; the player with the most points wins, not the last player standing. You can also check the game out on [itch.io](https://ariimoose.itch.io/style-on-em)
 
 This was a solo project, and free third-party assets were used for the animations and sound effects.
+___
 
 ### What Makes A Monster
 A last minute entry to Itch.io's Bite-Sized Horror game jam in 2016. What Makes A Monster is a short attempt at horror using Twine, and can be found [here](https://ariimoose.itch.io/what-makes-a-monster). This game, along with other entries in the game jam were covered by [Jupi over at her YouTube channel](https://www.youtube.com/watch?v=rerOewfTKnk&feature=youtu.be)
+___
 
 ### Grapple Guys
 
