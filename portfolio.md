@@ -19,7 +19,7 @@ ___
 
 ### Grapple Guys
 
-A simple 2D brawler with a gimmick. In Grapple Guys players attempt to stomp on one another's heads with the use of grappling hooks! This is being developed as part of my Two Week Challenge, where I try to develop a game in 14 days. You can see my progress on my [blog](https://ariimoose.github.io/), and over on [YouTube](https://www.youtube.com/playlist?list=PL-LX3iknXZp5djP7SACbGHA1dGJvhFg-x). Still not finished, but I'm halfway there!
+A simple 2D brawler with a gimmick. In Grapple Guys players attempt to stomp on one another's heads with the use of grappling hooks! This is being developed as part of my Two Week Challenge, where I try to develop a game in 14 days. You can see my progress on my [blog](https://ariimoose.github.io/), and over on [YouTube](https://www.youtube.com/playlist?list=PL-LX3iknXZp5djP7SACbGHA1dGJvhFg-x). The finished prototype can be found [over at itch.io](https://ariimoose.itch.io/grapple-guys)!
 ___
 
 ### Holdout
