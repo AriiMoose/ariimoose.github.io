@@ -49,6 +49,7 @@ ___
 ### Unity Flocking Simulation
 
 A college assignment where we had to recreate a famous sci-fi battle of our choice using [flocking & steering AI](https://www.etc.cmu.edu/projects/pandai/aitypes.html), complete with camera angles and everything! I chose the [Battle for the Citadel](https://www.youtube.com/watch?v=bNnd6oUEQ2I) at the end of Mass Effect (spoilers?). The project can be found [on my Github](https://github.com/AriiMoose/Unity-Assignment-Sci-Fi-Battle) as per usual.
+
 ___
 
 ### Excalibur Quest (Prototype)
