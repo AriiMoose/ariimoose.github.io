@@ -13,6 +13,8 @@ Style On 'Em is a turn-based fighting game created for the [#makeitSUPERHOT game
 
 This was a solo project, and free third-party assets were used for the animations and sound effects.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1cB0SJm6ZKY" frameborder="0" allowfullscreen></iframe>
+
 ___
 
 ### What Makes A Monster
