@@ -25,7 +25,7 @@ A simple 2D brawler with a gimmick. In Grapple Guys players attempt to stomp on 
 
 For this project I relied on honing old skills, while learning new ones. The biggest hurdle for this project was delving into pixel art as a complete novice, as well as improving my UI Development skills. This project implemented some very basic gameplay logic, and applied very simple game rules. The most interesting part of the development was the game's centerpiece; the grappling hook. To develop this I used a third-party solution as a tutorial/starting point to better understand the mechanics. After that I modified the solution, working heavily with raycasts and the creation of joints to simulate the physics of the grappling hook's rope.
 
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/CB5mznCfcIY" frameborder="0" allowfullscreen></iframe>
+<div align="center"><iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/CB5mznCfcIY" frameborder="0" allowfullscreen></iframe></div>
 
 ___
 
@@ -39,14 +39,17 @@ ___
 
 ### Tall Tales (Python, Natural Language Toolkit, Pyke, PyGame)
 
-Tall Tales was a game engine prototype I developed as part of my college dissertation. It aimed to merge natural-language processing (NLP) mechanics directly into a game engine using knowledge engines. The project was planned, designed & developed in ~7 months and didn't quite meet my expectations. This was due to me combining three very complicated topics into a project on a tight deadline. I did, however, get an amazing excuse to learn NLP outside of my college curriculum. Once again, the project is [over at my Github](https://github.com/AriiMoose/Tall-Tales). There's even a [short demo](https://www.youtube.com/watch?v=BsKD6g6Sw58) on YouTube which has a surprising number of views. And if you're super curious you can [check out the dissertation](https://www.docdroid.net/VA2FWaD/andrewtullyfyp.pdf.html) on DocDroid
+Tall Tales was a game engine prototype I developed as part of my college dissertation. It aimed to merge natural-language processing (NLP) mechanics directly into a game engine using knowledge engines. The project was planned, designed & developed in ~7 months. The project fell short due to me being ambitious and combining three very complicated topics into a project on a tight deadline. I did, however, get an amazing excuse to learn NLP outside of my college curriculum. This project taught me some serious project management and time management skills. On top of that I got to improve my Python skills, and expand my experience with knowledge engines and system architecture.
 
+Once again, the project is [over at my Github](https://github.com/AriiMoose/Tall-Tales). If you're super curious you can [check out the dissertation](https://www.docdroid.net/VA2FWaD/andrewtullyfyp.pdf.html) on DocDroid
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/BsKD6g6Sw58" frameborder="0" allowfullscreen></iframe></div>
 ___
 
 ### What Makes A Monster (Twine)
-A last minute entry to Itch.io's Bite-Sized Horror game jam in 2016. What Makes A Monster is a short attempt at horror using Twine, and can be found [here](https://ariimoose.itch.io/what-makes-a-monster). This game, along with other entries in the game jam were covered by a small YouTuber by the name of Jupi. Unfortunately, this project didn't turn out as well as I would have liked. There are some spelling errors, and errors with the flow of scenes which could have been avoided by beginning work earlier.
+A last minute entry to Itch.io's Bite-Sized Horror game jam in 2016. What Makes A Monster is a short attempt at horror using Twine, and can be found [here](https://ariimoose.itch.io/what-makes-a-monster). This game, along with other entries in the game jam were covered by a small YouTuber by the name of Jupi. Unfortunately, this project didn't turn out as well as I would have liked. There are some spelling errors, and problems with the flow of scenes which could have been avoided by beginning work earlier.
 
-<iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/rerOewfTKnk?start=1112" frameborder="0" allowfullscreen></iframe>
+<div align="center"><iframe align="center" width="560" height="315" src="https://www.youtube.com/embed/rerOewfTKnk?start=1112" frameborder="0" allowfullscreen></iframe></div>
 
 ___
 
