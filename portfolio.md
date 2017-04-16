@@ -31,9 +31,10 @@ ___
 
 ### Holdout (C#, Unity)
 
-Holdout is a game for Android devices that combines RTS & Tower Defense. At the time of writing Holdout is yet to be released, but my work on the game has concluded. Here's a link to the public test build we launched to gain feedback on controls & performance. The game changed a lot between this version, and the version that I concluded my work with.
+Holdout is a game for Android devices that combines RTS & Tower Defense. During my time working on Holdout I worked on a large variety of systems. The main focus of my work was AI. This implementing A-Star Pathfinding for player characters as well as targetting AI, and group AI for the enemy characters. Player character AI operated based on a priority list, where certain character types prioritised different tasks/targets. To optimise this the player character AI used several focal points. The player AI would ask a focal point for a particular type of target, the focal point would then return a suitable target from it's list of available targets. This reduced overhead from each player agent independently performing the same searches by shifting the search to one agent. The enemy group AI was the result of refactoring and optimisation. Instead of each enemy being autonomous they relied on the same focal points in a level that managed their AI and distributed commands.
 
-<https://play.google.com/store/apps/details?id=com.HeptadeStudios.Holdout&hl=en>
+In addition to AI I had a host of other responsibilities. One of these was integrating audio-visual assets (animations, 3D models, sound, particle effects). Another major role on the project was optimisation and testing. For a third of my duration with this project I focused on profiling and optimising the game for Android devices. During this I was also carrying out usability tests to ensure that everything worked in accordance with the design specifications.
+
 
 ___
 
@@ -58,14 +59,11 @@ ___
 
 ### BGE (C++, OpenGL, BulletPhysics)
 
-BGE is a game engine developed by my Game Engines lecturer, Bryan Duggen, which he used as a teaching tool. We spent a full semester studying the engine, and developing with it as a learning exercise. This concluded with use making physics-driven automotans powered by BulletPhysics & OpenGL. [Here](https://youtu.be/ii049d7UFrg?t=5m54s) is a quick video demo of what was meant to be a Tripod from War of the Worlds. The fork of the repository can be found [here on my Github](https://github.com/AriiMoose/BGE) with README explaining the thought process behind the project
+BGE is a game engine developed by my Game Engines lecturer, Bryan Duggen, which he used as a teaching tool. We spent a full semester studying the engine, using it for development, and also making modifications to it, as a learning exercise. The majority of this project relied on physics calculations using C++, as well as gaining an understanding of key game engine concepts such as quaternions, vector maths, and shaders. This concluded with us making physics-driven automotans powered by BulletPhysics & OpenGL. My automaton attempted to replicate the Tripods from War of the Worlds. Thanks to some mistakes with the motors powering the joints, it resulted in the Tripod jumping rather than walking.
 
-___
+The fork of the repository can be found [here on my Github](https://github.com/AriiMoose/BGE) with README explaining the thought process behind the project
 
-### Unity Flocking Simulation (C#, Unity)
-
-A college assignment where we had to recreate a famous sci-fi battle of our choice using [flocking & steering AI](https://www.etc.cmu.edu/projects/pandai/aitypes.html), complete with camera angles and everything! I chose the [Battle for the Citadel](https://www.youtube.com/watch?v=bNnd6oUEQ2I) at the end of Mass Effect (spoilers?). The project can be found [on my Github](https://github.com/AriiMoose/Unity-Assignment-Sci-Fi-Battle) as per usual.
-
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ii049d7UFrg?start=355" frameborder="0" allowfullscreen></iframe></div>
 ___
 
 ### Excalibur Quest Prototype (C#, SQLite, Unity)
