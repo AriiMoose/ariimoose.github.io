@@ -41,6 +41,8 @@ ___
 
 Tall Tales was a game engine prototype I developed as part of my college dissertation. It aimed to merge natural-language processing (NLP) mechanics directly into a game engine using knowledge engines. The project was planned, designed & developed in ~7 months. The project fell short due to me being ambitious and combining three very complicated topics into a project on a tight deadline. I did, however, get an amazing excuse to learn NLP outside of my college curriculum. This project taught me some serious project management and time management skills. On top of that I got to improve my Python skills, and expand my experience with knowledge engines and system architecture.
 
+Unfortunately the tech demo does not do the project justice. The demo relies on a very system knowledge base, but in the background the user input is being tokenised, parsed, and interpreted by the language processor. The obfuscation of the project's functionality to the user makes it appear deceptively simple.
+
 Once again, the project is [over at my Github](https://github.com/AriiMoose/Tall-Tales). If you're super curious you can [check out the dissertation](https://www.docdroid.net/VA2FWaD/andrewtullyfyp.pdf.html) on DocDroid
 
 <div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/BsKD6g6Sw58" frameborder="0" allowfullscreen></iframe></div>
@@ -68,4 +70,6 @@ ___
 
 ### Excalibur Quest Prototype (C#, SQLite, Unity)
 
-A prototype I developed for a freelance client. The game merges an adventure game with card-based mechanics. The game has not been developed further than this prototype, and as a result I have no material to show to the public
+A prototype of an Android companion app for a card-based adventure game. This was developed for a freelance client. The visual and gameplay design, along with the SQLite database, were supplied by the client. This project focused heavily on intregrating a local SQLite database with Unity, then pulling entries from the database using simple game logic and user input.
+
+<div align="center"><iframe width="560" height="315" src="https://www.youtube.com/embed/58Q0OeHgsqk" frameborder="0" allowfullscreen></iframe></div>
